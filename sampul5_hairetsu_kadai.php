@@ -14,7 +14,7 @@ $students = array(
 				array("name"=>"小杉太","id"=>"12"),
 				array("name"=>"山田笑太","id"=>"13"),
 				array("name"=>"城ケ崎姫子","id"=>"14"),
-				array("name"=>"笹山かず子","id"=>"15"),		
+				array("name"=>"笹山かず子","id"=>"15"),
 				array("name"=>"みぎわ花子","id"=>"16"),
 				array("name"=>"さくらももこ","id"=>"17")
 			);
