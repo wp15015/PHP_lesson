@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 	<meta charset="UTF-8">
-	<title>Webフォームの作成</title>
+	<title>Webフォームの作成２</title>
 </head>
 <body>
 	<form method="POST" action="catalog.php">
