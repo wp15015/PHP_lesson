@@ -98,17 +98,18 @@
 
 	//追記
 	print '<input type="hidden" name="_submit_check" value="1">';
-	print '<input type="submit"value="submit">';
+	print '<input type="submit" value="submit">';
 	//追記
 ?>
 
 <!--メインディッシュ確認のためダンプを出力-->
 	<pre>
 	<?php
+	print '<h3>$selected_options</h3>';
 	var_dump($selected_options);
-
+	print '<h3>$main_dishes</h3>';
 	var_dump($main_dishes);
-
+	print '<h3>$defaults</h3>';
 	var_dump($defaults);
 	?>
 	</pre>
