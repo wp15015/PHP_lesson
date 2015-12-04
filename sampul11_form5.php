@@ -99,6 +99,7 @@
 	//追記
 	print '<input type="hidden" name="_submit_check" value="1">';
 	print '<input type="submit"value="submit">';
+	print '</form>'
 	//追記
 ?>
 
